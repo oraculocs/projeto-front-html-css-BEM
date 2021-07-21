@@ -7,6 +7,12 @@ Projeto fictício que possui um Software de Gestão e Finanças para pequenas Em
 cabeçalho, rodape e formulário de assinatura. Site totalmente responsivo com toggle que atende totalmente a todo tipo de tela. 
 
 <br/>
+<h2 align="center"> Visualização da Página </h2>
+
+<p align="center">
+  <img src="https://github.com/oraculocs/assets/blob/master/MyPilas/Mypilas-1.gif" />
+  </p>
+<br/>  
 
 ## Layout Web
 
@@ -15,6 +21,10 @@ cabeçalho, rodape e formulário de assinatura. Site totalmente responsivo com t
 ![Web 2](https://github.com/oraculocs/assets/blob/master/MyPilas/depoimento.JPG)
 
 ![Web 3](https://github.com/oraculocs/assets/blob/master/MyPilas/plano-rodape.JPG)
+
+<br/> 
+
+## Layout Responsivo
 
 ![Web 4](https://github.com/oraculocs/assets/blob/master/MyPilas/formResponsivo.JPG)
 
