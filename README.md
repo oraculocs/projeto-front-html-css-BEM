@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Projeto fictício que possui um Software de Gestão e Finanças para pequenas Empresas. Site simples com Logomarca, tipos de planos(características de cada plano), botões personalizados,
+Projeto fictício que simula um Software de Gestão e Finanças para pequenas Empresas. Site simples feito apenas em HTML/CSS/JS e Metodologia BEM que contempla uma Logomarca, tipos de planos(características de cada plano), botões personalizados,
 cabeçalho, rodape e formulário de assinatura. Site totalmente responsivo com toggle que atende totalmente a todo tipo de tela. 
 
 <br/>
